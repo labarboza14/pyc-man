@@ -1,0 +1,3 @@
+rafael | Score:41 | Tempo:26.37s
+rafa | Score:89 | Tempo:74.09s
+gloria | Score:52 | Tempo:24.51s
